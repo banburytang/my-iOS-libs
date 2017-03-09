@@ -20,7 +20,7 @@
 ## 官方
 
 1. Swift 官方博客：<https://swift.org/>
-2. Swift 编程语言指南：<https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html>
+2. Swift 编程语言指南：[英文](https://developer.apple.com/library/prerelease/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)、[中文](http://wiki.jikexueyuan.com/project/swift/)
 3. 官方资源汇总，包括指南、视频、Demo 等：<https://developer.apple.com/swift/resources/>
 
 ## 优质社区
@@ -28,6 +28,7 @@
 1. Swift 学习指引，非常全面的站点：<http://www.swiftguide.cn/>
 2. ObjC 中国：<https://objccn.io/>
 3. <http://swift.gg/>：SwiftGG 是梁杰发起的，有一众小伙伴组织的翻译组，单看可能分类较多，零散了些，但是针对具体的技术层面，总能找到自己需要的经验参考。
+4. <https://boxueio.com/>：泊学网，有视频，有文章。
 
 
 ## 博客
